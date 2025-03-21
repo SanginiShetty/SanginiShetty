@@ -9,6 +9,10 @@
 
 - 👯 I’m looking to collaborate on **MernStack project with integrated AI**
 
+<p align="center">
+  <img src="https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710074.jpg?t=st=1742576967~exp=1742580567~hmac=58fa48b58c89e879c3f533d018d1ff89f1b1490347293b0f86845022a97d56f0&w=996" width="500"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sangini-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangini-shetty" height="30" width="40" /></a>
@@ -20,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanginishetty&show_icons=true&locale=en" alt="sanginishetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanginishetty&" alt="sanginishetty" /></p>
+
+
+
+
