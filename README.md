@@ -1,6 +1,6 @@
-# 💫 About Me:
-Hello there, I am Sangini Shetty
-
+<img src="1.png" alt="GitHub Banner" width="100%" />
+<img src="2.png" alt="GitHub Banner" width="100%" />
+<img src="3.png" alt="GitHub Banner" width="100%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangini-shetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanginijshetty@gmail.com) 
